@@ -182,7 +182,7 @@ ul.items_header li img.icon_item_header {
 .wrapper_logo_background {
 	display: flex;
 	position: absolute;
-	top: 500px;
+	top: 210px;
 	right: 10%;
 /*	right: 250px;*/
 }
